@@ -5,13 +5,13 @@ Aranthia Adventure Game is a text-based, fantasy choose your own adventure game!
 
 ## Table of Contents 
 
-* [Technologies Used] (#technologies-used)
-* [Features] (#features)
-* [Screenshot] (#screenshot)
-* [Setup] (#setup)
-* [Usage] (#usage)
-* [Project Status] (#project-status)
-* [Contact] (#contact)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshot](#screenshot)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Contact](#contact)
   
 ## Technologies Used 
 
@@ -50,5 +50,5 @@ Aranthia Adventure Game is a text-based, fantasy choose your own adventure game!
 
 ## Contact
 
-Created by @allysanabila - feel free to contact me!
+Created by [@allysanabila] - feel free to contact me!
 
