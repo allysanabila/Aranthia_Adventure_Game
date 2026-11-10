@@ -49,5 +49,5 @@ Aranthia Adventure Game is a text-based, fantasy choose your own adventure game!
 
 ## Contact
 
-Created by [@allysanabila] - feel free to contact me!
+Created by [@allysanabila](allysa.n.singh@student.uts.edu.au) - feel free to contact me!
 
