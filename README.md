@@ -34,7 +34,6 @@ Aranthia Adventure Game is a text-based, fantasy choose your own adventure game!
 ## Setup 
 
   - Python 3
-  - Can use other 
 
 ## Usage
 
